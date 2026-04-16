@@ -62,5 +62,5 @@ http://localhost:3000/editor?new=pptx
 - Cloudflare Pages
 
 ---
-Русская адаптация README: legenda_god  
+Автор: legenda_god  
 Telegram: https://t.me/FitoDomik
